@@ -1,0 +1,33 @@
+.card {
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    background-color: #453831;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+
+  }
+  .card-info h2 {
+    font-family: 'Jura';
+    margin: 0 0 8px;
+    color: #DDDEC6;
+  }
+  .card-info p {
+    margin: 0 0 8px;
+    font-family: 'Jura';
+    font-size: 20px;
+    color: #DDDEC6;
+  }
+  .card-info a {
+    color: #DDDEC6;
+    text-decoration: none;
+    font-family: 'Jura';
+    font-size: 20px;
+
+  }
+  .card-info a:hover {
+    text-decoration: underline;
+    color: #e90d0d;
+  }
+  
+ 
+  

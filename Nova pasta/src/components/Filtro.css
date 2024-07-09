@@ -1,0 +1,38 @@
+.filtro {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+  }
+  .filtro button {
+    background-color: #DDDEC6;
+    color: #453831;
+    border: none;
+    border-radius: 6px;
+    padding: 15px 25px;
+    margin: 0 5px;
+    cursor: pointer;
+    font-size: 1.3em;
+    width: 150px; 
+    height: 50px; 
+    display: flex;           
+    align-items: center;    
+    justify-content: center;      
+    font-weight: bold;    
+    font-family: 'Jura'; 
+  }
+  /* .filtro button:hover {
+    background-color: #453831;
+    color: #DDDEC6;
+  } */
+  .filtro button.ativo {
+    background-color: #453831;
+    color: #fff;
+    border-color: #453831;
+  }
+  
+  /* .filtro button.ativo:hover {
+    background-color: #DDDEC6;
+  } */
+  
+  
+  
