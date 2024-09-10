@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto consiste em uma API que suporta três gêneros musicais: Adoração, MPB e Pop, cada um contendo uma seleção de seis músicas. A aplicação React permite que os usuários filtrem as músicas por gênero ao clicar em botões específicos, exibindo o nome da música, o cantor e um link para ouvi-la no YouTube.
